@@ -10,7 +10,7 @@ I develop C++ applications, backend systems and real-time software, with interes
 
 ### Multiplayer Networking & Server Infrastructure
 
-Server-authoritative multiplayer for a custom cross-platform C++ engine targeting Windows and Android, supporting up to 4 players. My work covers client-side prediction, server reconciliation, network diagnostics, automated testing and Linux server deployment. I validated it across 7 simulated network profiles, including a harsh one at about 548 ms RTT.
+Server-authoritative multiplayer for a custom cross-platform C++ engine targeting Windows and Android, supporting up to 4 players. My work covers client-side prediction, server reconciliation, network diagnostics, automated testing and Linux server deployment. I validated it across 7 simulated network profiles, including a harsh one at about 548 ms RTT. I also traced and fixed a Dash spell rubber-banding bug in client–server reconciliation.
 
 The original source code is restricted from public distribution under institutional requirements.
 
@@ -18,9 +18,9 @@ The original source code is restricted from public distribution under institutio
 
 ### MAKO Submarine Engineering
 
-Real-time pilot telemetry and computer vision for Singapore's first human-powered submarine. The team placed 3rd at eISR 2026 in Best Run, Best Speed and Best Time.
+Pilot telemetry and line/gate detection for Singapore's first human-powered submarine. The MAKO team placed 3rd at eISR 2026 in Best Run, Best Speed and Best Time. My public code is a browser-based telemetry dashboard prototype (Flask + Three.js) that uses simulated sensor inputs.
 
-[Technical case study](https://github.com/testWhale/engineering-portfolio/blob/main/projects/mako-submarine.md) · [SubmarineDashboard](https://github.com/testWhale/SubmarineDashboard) · [YOLO11 detection fork](https://github.com/testWhale/Real-Time-Object-Detection-using-YOLO11)
+[Technical case study](https://github.com/testWhale/engineering-portfolio/blob/main/projects/mako-submarine.md) · [SubmarineDashboard (prototype)](https://github.com/testWhale/SubmarineDashboard)
 
 ### Cross-Platform Graphics & Web Deployment
 
